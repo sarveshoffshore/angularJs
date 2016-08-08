@@ -7,7 +7,7 @@
   <p>Looping with ng-repeat:</p>
   <ul>
     <li ng-repeat="x in names">
-      {{ x }}
+      {{ x }} 1 
     </li>
   </ul>
 </div>
