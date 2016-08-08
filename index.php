@@ -8,7 +8,7 @@
   <ul>
     <li ng-repeat="x in names">
       {{ x }}
-    </li>
+    </li> 
   </ul>
 </div>
 
